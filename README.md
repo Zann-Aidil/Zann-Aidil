@@ -1,46 +1,53 @@
-# Hi there! 
+# Hi everyone! 
 
-Nama saya **Asem** | Teknik Informatika Student 
+My name is **Fauzan Aidil Luthfi**.
 
-Code Reviewer | Mobile & Web Developer | AI Enthusiast
+I'm a **Full Stack Developer** & **AI/ML Engineer** passionate about crafting intelligent web and mobile solutions. Teknik Informatika student (Semester 6) at Universitas Medan Area with hands-on experience in modern technologies and architecture design.
+
+**Currently:** Building scalable applications | Exploring AI/ML solutions  
+**Open to:** AI/ML Engineering roles | Full Stack Development | Web Dev Internship
 
 ---
 
 ## Tech Stack
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+**Web Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white)
+**Mobile Development**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+**AI & ML**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-**Mobile:**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
-
-**Tools:**  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
+**Languages & Tools**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## GitHub Statistics
+## Github Statistic
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zann-Aidil&layout=compact&theme=dark" alt="Top Languages">
+### My Programming Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zann-Aidil&layout=compact&theme=dark&title_color=61dafb)](https://github.com/Zann-Aidil)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zann-Aidil&show_icons=true&theme=dark" alt="GitHub Stats">
+### My GitHub Statistics  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Zann-Aidil&show_icons=true&theme=dark&title_color=61dafb&count_private=true)](https://github.com/Zann-Aidil)
 
 ---
 
-## Find Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Zann-Aidil)
+## You Can Find Me at
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+
+---
+
+🚀 Let's build something amazing together!
