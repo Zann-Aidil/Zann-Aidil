@@ -1,12 +1,12 @@
-# Hi there! 👋
+# Hi there! 
 
-Nama saya **Asem** | Teknik Informatika Student 🎓
+Nama saya **Asem** | Teknik Informatika Student 
 
 Code Reviewer | Mobile & Web Developer | AI Enthusiast
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Programming Languages:**  
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
@@ -32,7 +32,7 @@ Code Reviewer | Mobile & Web Developer | AI Enthusiast
 
 ---
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zann-Aidil&layout=compact&theme=dark" alt="Top Languages">
 
@@ -40,7 +40,7 @@ Code Reviewer | Mobile & Web Developer | AI Enthusiast
 
 ---
 
-## 🔗 Find Me
+## Find Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/Zann-Aidil)
