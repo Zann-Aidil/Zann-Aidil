@@ -2,7 +2,7 @@
 
 My name is **Fauzan Aidil Luthfi**.
 
-I'm a **Full Stack Developer** & **AI/ML Engineer** passionate about crafting intelligent web and mobile solutions. Teknik Informatika student (Semester 6) at Universitas Medan Area with hands-on experience in modern technologies and architecture design.
+I'm a **Full Stack Developer** & **AI/ML Engineer** passionate about crafting intelligent web and mobile solutions. Informatic Engineering student (Semester 6) at Universitas Medan Area with hands-on experience in modern technologies and architecture design.
 
 **Currently:** Building scalable applications | Exploring AI/ML solutions  
 **Open to:** AI/ML Engineering roles | Full Stack Development | Web Dev Internship
