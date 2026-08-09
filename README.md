@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Fauzan+Aidil+Luthfi;Full-Stack+Developer;AI+%2F+ML+Engineer;Adaptive+%26+Collaborative+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=61DAFB&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Fauzan+Aidil+Luthfi;Full-Stack+Developer;AI+%2F+ML+Engineer;Adaptive+%26+Collaborative+Developer" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Crafting intelligent web, mobile, and AI solutions.</h3>
