@@ -103,5 +103,5 @@
   <img src="https://profile-counter.glitch.me/Zann-Aidil/count.svg" alt="Profile views" />
 </div>
 <div align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad." - Cory House</i>
+  <i>"If your code doesn’t hit today, don’t worry. There are other ways to be useful</i>
 </div>
